@@ -1,0 +1,58 @@
+لیست ۵ مقاله معتبر در حوزه Machine Learning (2023-2024)
+
+مقاله اول
+
+· عنوان مقاله: A Comprehensive Survey of Graph Neural Networks for Recommender Systems
+· نام ژورنال: ACM Computing Surveys
+· Impact Factor ژورنال: ~24.3 (جزو معتبرترین ژورنال‌های مروری در علوم کامپیوتر)
+· سال انتشار: ۲۰۲۳
+· لینک مقاله: https://dl.acm.org/doi/10.1145/3572857
+· خلاصه کوتاه: این مقاله مروری جامع بر کاربردهای شبکه‌های عصبی گراف (GNN) در سیستم‌های پیشنهاددهنده ارائه می‌دهد.
+
+مقاله دوم
+
+· عنوان مقاله: Vision Transformers for Remote Sensing Image Scene Classification
+· نام ژورنال: IEEE Transactions on Geoscience and Remote Sensing
+· Impact Factor ژورنال: ~۸.۲
+· سال انتشار: ۲۰۲۳
+· لینک مقاله: https://ieeexplore.ieee.org/document/10042561
+· خلاصه کوتاه: این مقاله به بررسی کارایی معماری Transformer (که ابتدا در پردازش زبان طبیعی مطرح شد) در طبقه‌بندی تصاویر سنجش از دور می‌پردازد.
+
+مقاله سوم
+
+· عنوان مقاله: Large Language Models Empowered Autonomous Edge AI for 6G Networks
+· نام ژورنال: IEEE Network
+· Impact Factor ژورنال: ~۹.۳
+· سال انتشار: ۲۰۲۴
+· لینک مقاله: https://ieeexplore.ieee.org/document/10389463
+· خلاصه کوتاه: این مقاله نقش مدل‌های زبان بزرگ (LLMs) را در توانمندسازی هوش مصنوعی مستقل در لبه شبکه‌های نسل ششم (6G) بررسی می‌کند.
+
+مقاله چهارم
+
+· عنوان مقاله: Federated Learning for Healthcare Informatics: A Comprehensive Review
+· نام ژورنال: IEEE Journal of Biomedical and Health Informatics
+· Impact Factor ژورنال: ~۷.۰
+· سال انتشار: ۲۰۲۳
+· لینک مقاله: https://ieeexplore.ieee.org/document/10006828
+· خلاصه کوتاه: این مقاله مروری، اصول و کاربردهای یادگیری فدرال (Federated Learning) را در حوزه انفورماتیک سلامت، با تمرکز بر حفظ حریم خصوصی داده‌های حساس پزشکی، ارائه می‌دهد.
+
+مقاله پنجم
+
+· عنوان مقاله: Explainable AI (XAI) in Deep Learning-Based Medical Image Analysis
+· نام ژورنال: Medical Image Analysis
+· Impact Factor ژورنال: ~۱۰.۴
+· سال انتشار: ۲۰۲۳
+· لینک مقاله: https://www.sciencedirect.com/science/article/abs/pii/S1361841523000041
+· خلاصه کوتاه: این مقاله به بررسی روش‌های مختلف برای قابل تفسیر کردن خروجی مدل‌های یادگیری عمیق در تحلیل تصاویر پزشکی می‌پردازد.
+
+---
+
+۵ کلمه کلیدی استخراج شده از مجموعه مقالات بالا
+
+با مطالعه عناوین و خلاصه این مقالات، می‌توان کلمات کلیدی پرتکرار و مهم زیر را استخراج کرد:
+
+1. شبکه‌های عصبی گراف (Graph Neural Networks - GNNs)
+2. مدل‌های زبان بزرگ (Large Language Models - LLMs)
+3. یادگیری فدرال (Federated Learning)
+4. ترنسفورمر (Transformer)
+5. هوش مصنوعی قابل تفسیر (Explainable AI - XAI)
